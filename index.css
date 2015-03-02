@@ -1,0 +1,76 @@
+body{
+    color: #036;
+    background-color: #fffefc;
+    font-family: Tahoma,Verdana,Arial;
+}
+.wraper{
+	margin: 0px auto;
+	display: block;
+	width: 270px;
+}
+
+#th{
+	font-weight: bolder;
+	font-family: Tahoma,Verdana,Arial;
+	font-size: 8pt;
+	color: #000080;
+	background-color: #CC9;
+	text-align: left;
+	display: block;
+}
+table{
+	border:2px solid #CC9;
+
+}
+
+table td {
+	font-size: 9pt;
+	font-family: Tahoma,Verdana,Arial;
+	text-align: right;
+}
+table td input{
+	font-size: 8pt;
+	font-family: Tahoma,Verdana,Arial;
+	height:20px;
+}
+
+#login{
+	color: #036;
+	font-family: Tahoma,Verdana,Arial;
+}
+.msg{
+	display: block;
+	text-align: justify;
+	margin: 0px auto;
+	width: 600px;
+	border: 2px solid #960000;
+	padding: 11px;
+	background-color: #FCEAC6;
+}
+
+.msg0{
+	display: block;
+	text-align: center;
+	margin: 0px auto;
+	width: 600px;
+	border: 2px solid #960000;
+	padding: 11px;
+	background-color: #FCEAC6;
+}
+.msgGrade{
+	display: block;
+	text-align: center;
+	margin: 0px auto;
+	border: 2px solid #960000;
+	padding: 11px;
+	background-color: #FCEAC6;
+}
+
+.msgSubGrade{
+	display: block;
+	text-align: left;
+	margin: 0px auto;
+	border: 2px solid #960000;
+	padding: 11px;
+	background-color: #FCEAC6;	
+}
